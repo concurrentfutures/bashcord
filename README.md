@@ -37,7 +37,7 @@ brew install curl jq websocat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bashcord.git
+   git clone https://github.com/concurrent.futures/bashcord.git
    cd bashcord
    ```
 
@@ -161,14 +161,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with love for shell scripting enthusiasts.
 - Thanks to the Discord API team for their comprehensive documentation.
 ```
-```
-
----
-
-### Instructions
-1. Copy the entire content within the code block.
-2. Paste it into a file named `README.md` in your project directory.
-3. Replace `yourusername` with your actual GitHub username in the clone URL.
-4. Optionally, replace the placeholder logo URL (`https://via.placeholder.com/150`) with a real logo if you have one.
-
-This format ensures it’s easy to copy-paste directly into your GitHub repository! Let me know if you need any changes.
